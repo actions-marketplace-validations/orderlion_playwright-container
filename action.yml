@@ -1,6 +1,6 @@
-name: Playwright Container
+name: Playwright Container, forked by Orderlion
 description: A GitHub Action / Docker image for Playwright, the browser automation library
-author: Ian Walter
+author: Ian Walter, forked by Orderlion
 runs:
   using: docker
   image: Dockerfile
